@@ -2,14 +2,14 @@
 #EXTINF:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://imgur.com/jTOf6Td.png" group-title="",ESPN 2
 https://airtek.tv/livestream/ESPN_2.m3u8
 
-#EXTINF:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/QYG7zQU.png" tvg-logo="https://imgur.com/QYG7zQU.png" group-title="",ESPN
+#EXTINF:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://imgur.com/QYG7zQU.png" group-title="",ESPN
 https://airtek.tv/livestream/ESPN_1.m3u8
 
 
 #IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://imgur.com/Wabz934.png" group-title="the boys",Directv Sport
 https://embed.sdfgnksbounce.com/embed2/directvsports.html
 
-#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/09B9ZUe.png" tvg-logo="https://imgur.com/09B9ZUe.png" group-title="",Directv Sport 2
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://imgur.com/09B9ZUe.png" group-title="",Directv Sport 2
 https://embed.sdfgnksbounce.com/embed2/directvsports2.html
 -------------------------------------------------------------------------------------------------------------
 
