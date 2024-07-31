@@ -1,3 +1,4 @@
+-------------------CANALES DE TV--------------------------TV---------------------------------------------
 #EXTINF:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://imgur.com/jTOf6Td.png" group-title="",ESPN 2
 https://airtek.tv/livestream/ESPN_2.m3u8
 
@@ -8,11 +9,14 @@ https://airtek.tv/livestream/ESPN_1.m3u8
 #IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://imgur.com/Wabz934.png" group-title="the boys",Directv Sport
 https://embed.sdfgnksbounce.com/embed2/directvsports.html
 
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/09B9ZUe.png" tvg-logo="https://imgur.com/09B9ZUe.png" group-title="",Directv Sport 2
+https://embed.sdfgnksbounce.com/embed2/directvsports2.html
+-------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 channel-id="TV EN VIVO" tvg-id="Prueba" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Logo_La_Linea_100x100.png" group-title="",Un Canal de Prueba
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
 
 
+
+-----------------------------Series----------------------Series--------------------------------------------
 #EXTINF:-1 channel-id="SERIES" tvg-id="THE BOYS TEMPORADA 1" portada="https://imgur.com/GnhJ3Ue.png" tvg-logo="https://ww1.peliculasenhd.org/wp-content/uploads/2020/04/dzOxNbbz1liFzHU1IPvdgUR647b-200x300.jpg" group-title="Serie",The Boys temp 1x1
 https://archive.org/download/the.-boys.-1x-05.lati/The.Boys.1x01.lati.mp4
 
@@ -50,6 +54,7 @@ https://vk.com/video_ext.php?oid=730471731&id=456240969&hash=69a39a9e53e72bf4
 https://vk.com/video_ext.php?oid=730471731&id=456240970&hash=0ab985369a05c8d8
 
 
-
+------------------------Peliculas---------------------------peliculas---------------------------------------
 #IFRAME:-1 channel-id="PELICULAS" tvg-id="2024" portada="https://imgur.com/YFeXX0c.png" tvg-logo="https://i.imgur.com/XnGOxrg.png" group-title="",Deadpool y Wolverine
 https://wishembed.pro/e/02ha2gtlopqr
+----------------------------------------------------------------------------------------------------------
