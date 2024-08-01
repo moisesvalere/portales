@@ -1,16 +1,61 @@
 -------------------CANALES DE TV--------------------------TV---------------------------------------------
-#EXTINF:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://imgur.com/jTOf6Td.png" group-title="",ESPN 2
-https://airtek.tv/livestream/ESPN_2.m3u8
-
-#EXTINF:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://imgur.com/QYG7zQU.png" group-title="",ESPN
-https://airtek.tv/livestream/ESPN_1.m3u8
-
-
-#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://imgur.com/Wabz934.png" group-title="the boys",Directv Sport
-https://embed.sdfgnksbounce.com/embed2/directvsports.html
-
-#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://imgur.com/09B9ZUe.png" group-title="",Directv Sport 2
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/09B9ZUe.png" tvg-logo="https://imgur.com/09B9ZUe.png" group-title="",Directv Sport 2
 https://embed.sdfgnksbounce.com/embed2/directvsports2.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/tudn.png" group-title="",TUDN
+https://embed.sdfgnksbounce.com/embed2/tudn.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/golperu.png" group-title="",Gol Perú
+https://embed.sdfgnksbounce.com/embed2/golperu.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/goltv.png" group-title="",Gol TV 
+https://embed.sdfgnksbounce.com/embed2/goltv.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/tntsports.png" group-title="",TNT SPORTS
+https://embed.sdfgnksbounce.com/embed2/tntsports.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/foxsportspremium.png" group-title="",Fox Sports Premium
+https://embed.sdfgnksbounce.com/embed2/foxsportspremium.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/tycsports.png" group-title="",TYC Sports
+https://embed.sdfgnksbounce.com/embed2/tycsports.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/movistardeportes.png" group-title="",Movistar Deportes (Perú)
+https://embed.sdfgnksbounce.com/embed2/movistardeportes.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/movistarlaliga.png" group-title="",Movistar La Liga
+https://embed.sdfgnksbounce.com/embed2/movistarlaliga.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/daznf1.png" group-title="",Dazn F1
+https://embed.sdfgnksbounce.com/embed2/daznf1.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/daznlaliga.png" group-title="",Dazn La Liga
+https://embed.sdfgnksbounce.com/embed2/daznlaliga.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/beinlaliga.png" group-title="",Bein La Liga
+https://embed.sdfgnksbounce.com/embed2/beinlaliga.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/directvsports.png" group-title="",Directv Sports
+https://embed.sdfgnksbounce.com/embed2/directvsports.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/directvsports2.png" group-title="",Directv Sports 2 
+https://embed.sdfgnksbounce.com/embed2/directvsports2.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/directvsportsplus.png" group-title="",Directv Sports Plus
+https://embed.sdfgnksbounce.com/embed2/directvsportsplus.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/espn.png" group-title="",Espn
+https://embed.sdfgnksbounce.com/embed2/espn.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/espn2.png" group-title="",Espn 2
+https://embed.sdfgnksbounce.com/embed2/espn2.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/espn3.png" group-title="",Espn 3
+https://embed.sdfgnksbounce.com/embed2/espn3.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/espn4.png" group-title="",Espn 4
+https://embed.sdfgnksbounce.com/embed2/espn4.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/espn5.png" group-title="",Espn 5
+https://embed.sdfgnksbounce.com/embed2/espn5.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/espn6.png" group-title="",Espn 6
+https://embed.sdfgnksbounce.com/embed2/espn6.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/espn7.png" group-title="",Espn 7
+https://embed.sdfgnksbounce.com/embed2/espn7.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/espn.png" group-title="",Espn Mexico
+https://embed.sdfgnksbounce.com/embed2/espnmexico.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/espn2.png" group-title="",Espn 2 Mexico 
+https://embed.sdfgnksbounce.com/embed2/espn2mexico.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/espn3.png" group-title="",Espn 3 Mexico
+https://embed.sdfgnksbounce.com/embed2/espn3mexico.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/foxsports.png" group-title="",Fox Sports
+https://embed.sdfgnksbounce.com/embed2/foxsports.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/foxsports2.png" group-title="",Fox Sports 2
+https://embed.sdfgnksbounce.com/embed2/foxsports2.html
+#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/foxsports3.png" group-title="",Fox Sports 3 Mexico
+https://embed.sdfgnksbounce.com/embed2/foxsports3mexico.html
+
 -------------------------------------------------------------------------------------------------------------
 
 
