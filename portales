@@ -1,6 +1,5 @@
 -------------------CANALES DE TV--------------------------TV---------------------------------------------
-#IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/09B9ZUe.png" tvg-logo="https://imgur.com/09B9ZUe.png" group-title="",Directv Sport 2
-https://embed.sdfgnksbounce.com/embed2/directvsports2.html
+
 #IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/tudn.png" group-title="",TUDN
 https://embed.sdfgnksbounce.com/embed2/tudn.html
 #IFRAME:-1 channel-id="TV EN VIVO" tvg-id="Canales Deportivos" portada="https://imgur.com/pwEVMGo.png" tvg-logo="https://www.cablevisionhd.com/imge/golperu.png" group-title="",Gol Perú
